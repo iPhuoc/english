@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction</title>
-    <link>/</link>
+    <link>https://iphuoc.github.io/english/</link>
     <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iphuoc.github.io/english/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deloitte Consulting</title>
-      <link>/projects/deloitte/</link>
+      <link>https://iphuoc.github.io/english/projects/deloitte/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
       
-      <guid>/projects/deloitte/</guid>
+      <guid>https://iphuoc.github.io/english/projects/deloitte/</guid>
       <description> Deloitte Consulting  Price Prediction of Used Cars Missing Data Imputation  </description>
     </item>
     
     <item>
       <title>SportScheck GmbH</title>
-      <link>/projects/sportscheck/</link>
+      <link>https://iphuoc.github.io/english/projects/sportscheck/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
       
-      <guid>/projects/sportscheck/</guid>
+      <guid>https://iphuoc.github.io/english/projects/sportscheck/</guid>
       <description> SportScheck GmbH  Customer Analytics Churn Prediction  </description>
     </item>
     
     <item>
       <title>CRI - The Clinical Research Institute</title>
-      <link>/projects/cri/</link>
+      <link>https://iphuoc.github.io/english/projects/cri/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
       
-      <guid>/projects/cri/</guid>
+      <guid>https://iphuoc.github.io/english/projects/cri/</guid>
       <description> CRI - The Clinical Research Institute GmbH  Fraud Analytics Reporting Automation  </description>
     </item>
     
     <item>
       <title>Profile in English goes online</title>
-      <link>/blog/profile-goes-online/</link>
+      <link>https://iphuoc.github.io/english/blog/profile-goes-online/</link>
       <pubDate>Tue, 20 Feb 2018 11:58:39 -0500</pubDate>
       
-      <guid>/blog/profile-goes-online/</guid>
+      <guid>https://iphuoc.github.io/english/blog/profile-goes-online/</guid>
       <description>Finally, my english profile :)</description>
     </item>
     
     <item>
       <title>R Markdown Intergration</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
+      <link>https://iphuoc.github.io/english/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sun, 18 Feb 2018 21:13:14 -0500</pubDate>
       
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://iphuoc.github.io/english/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -60,28 +60,28 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Image Test</title>
-      <link>/blog/image-test/</link>
+      <link>https://iphuoc.github.io/english/blog/image-test/</link>
       <pubDate>Sun, 18 Feb 2018 12:04:16 -0500</pubDate>
       
-      <guid>/blog/image-test/</guid>
+      <guid>https://iphuoc.github.io/english/blog/image-test/</guid>
       <description>let&amp;rsquo;s see&amp;hellip;.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://iphuoc.github.io/english/contact/</link>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://iphuoc.github.io/english/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://iphuoc.github.io/english/about/</link>
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://iphuoc.github.io/english/about/</guid>
       <description> Born and Raised in Munich, Germany Master of Science in Biostatistics (Ludwig Maximilians Universität Munich) Bachelor of Science in Statistics (Ludwig Maximilians Universität Munich) Study Abroad in San Daiego (San Diego State University)  </description>
     </item>
     

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Introduction</title>
-    <link>/projects/</link>
+    <link>https://iphuoc.github.io/english/projects/</link>
     <description>Recent content in Projects on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
     
-	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iphuoc.github.io/english/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deloitte Consulting</title>
-      <link>/projects/deloitte/</link>
+      <link>https://iphuoc.github.io/english/projects/deloitte/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
       
-      <guid>/projects/deloitte/</guid>
+      <guid>https://iphuoc.github.io/english/projects/deloitte/</guid>
       <description> Deloitte Consulting  Price Prediction of Used Cars Missing Data Imputation  </description>
     </item>
     
     <item>
       <title>SportScheck GmbH</title>
-      <link>/projects/sportscheck/</link>
+      <link>https://iphuoc.github.io/english/projects/sportscheck/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
       
-      <guid>/projects/sportscheck/</guid>
+      <guid>https://iphuoc.github.io/english/projects/sportscheck/</guid>
       <description> SportScheck GmbH  Customer Analytics Churn Prediction  </description>
     </item>
     
     <item>
       <title>CRI - The Clinical Research Institute</title>
-      <link>/projects/cri/</link>
+      <link>https://iphuoc.github.io/english/projects/cri/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
       
-      <guid>/projects/cri/</guid>
+      <guid>https://iphuoc.github.io/english/projects/cri/</guid>
       <description> CRI - The Clinical Research Institute GmbH  Fraud Analytics Reporting Automation  </description>
     </item>
     

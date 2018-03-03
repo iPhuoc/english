@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>English on Introduction</title>
-    <link>/tags/english/</link>
+    <link>https://iphuoc.github.io/english/tags/english/</link>
     <description>Recent content in English on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Feb 2018 11:58:39 -0500</lastBuildDate>
     
-	<atom:link href="/tags/english/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iphuoc.github.io/english/tags/english/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Profile in English goes online</title>
-      <link>/blog/profile-goes-online/</link>
+      <link>https://iphuoc.github.io/english/blog/profile-goes-online/</link>
       <pubDate>Tue, 20 Feb 2018 11:58:39 -0500</pubDate>
       
-      <guid>/blog/profile-goes-online/</guid>
+      <guid>https://iphuoc.github.io/english/blog/profile-goes-online/</guid>
       <description>Finally, my english profile :)</description>
     </item>
     
