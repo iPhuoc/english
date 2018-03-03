@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Introduction</title>
+    <link>/tags/test/</link>
+    <description>Recent content in Test on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2018 12:04:16 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Test</title>
+      <link>/blog/image-test/</link>
+      <pubDate>Sun, 18 Feb 2018 12:04:16 -0500</pubDate>
+      
+      <guid>/blog/image-test/</guid>
+      <description>let&amp;rsquo;s see&amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>

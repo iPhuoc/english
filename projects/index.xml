@@ -2,41 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Introduction</title>
-    <link>https://iphuoc.github.io/english/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
     
-	<atom:link href="https://iphuoc.github.io/english/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deloitte Consulting</title>
-      <link>https://iphuoc.github.io/english/projects/photography/</link>
+      <link>/projects/deloitte/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
       
-      <guid>https://iphuoc.github.io/english/projects/photography/</guid>
-      <description>Sometimes I take pictures. This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+      <guid>/projects/deloitte/</guid>
+      <description> Deloitte Consulting  Price Prediction of Used Cars Missing Data Imputation  </description>
     </item>
     
     <item>
       <title>SportScheck GmbH</title>
-      <link>https://iphuoc.github.io/english/projects/sportscheck/</link>
+      <link>/projects/sportscheck/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
       
-      <guid>https://iphuoc.github.io/english/projects/sportscheck/</guid>
-      <description> Customer Analytics Churn Prediction  </description>
+      <guid>/projects/sportscheck/</guid>
+      <description> SportScheck GmbH  Customer Analytics Churn Prediction  </description>
     </item>
     
     <item>
       <title>CRI - The Clinical Research Institute</title>
-      <link>https://iphuoc.github.io/english/projects/writing/</link>
+      <link>/projects/cri/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
       
-      <guid>https://iphuoc.github.io/english/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <guid>/projects/cri/</guid>
+      <description> CRI - The Clinical Research Institute GmbH  Fraud Analytics Reporting Automation  </description>
     </item>
     
   </channel>

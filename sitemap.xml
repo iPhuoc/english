@@ -3,130 +3,125 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iphuoc.github.io/english/projects/photography/</loc>
+    <loc>/projects/deloitte/</loc>
     <lastmod>2017-11-13T12:21:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/projects/sportscheck/</loc>
+    <loc>/projects/sportscheck/</loc>
     <lastmod>2017-11-13T12:21:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/projects/writing/</loc>
+    <loc>/projects/cri/</loc>
     <lastmod>2017-11-13T12:21:11-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/blog/hipster-ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>/blog/profile-goes-online/</loc>
+    <lastmod>2018-02-20T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/blog/startup-ipsum/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <loc>/blog/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2018-02-18T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/blog/coffee-ipsum/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <loc>/blog/image-test/</loc>
+    <lastmod>2018-02-18T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-03-09T13:19:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/blog/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iphuoc.github.io/english/blog/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2018-02-20T11:58:39-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/code/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <loc>/tags/english/</loc>
+    <lastmod>2018-02-20T11:58:39-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/coffee/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+    <loc>/tags/image/</loc>
+    <lastmod>2018-02-18T12:04:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/images/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iphuoc.github.io/english/</loc>
+    <loc>/</loc>
     <lastmod>2017-11-13T12:21:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>/tags/phuoc/</loc>
+    <lastmod>2018-02-18T12:04:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/tags/plot/</loc>
+    <lastmod>2018-02-18T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/projects/</loc>
+    <loc>/tags/profile/</loc>
+    <lastmod>2018-02-20T11:58:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
     <lastmod>2017-11-13T12:21:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/categories/r/</loc>
+    <lastmod>2018-02-18T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2018-02-18T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/tags/regression/</loc>
+    <lastmod>2018-02-18T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2018-02-20T11:58:39-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/english/tags/words/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>/tags/test/</loc>
+    <lastmod>2018-02-18T12:04:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
